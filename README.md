@@ -32,7 +32,7 @@ Estudante de Desenvolvimento de Sistemas com foco em **Quality Assurance**. Esto
 ## 🎓 Formação
 
 - 💻 Bacharel em Ecologia — Universidade Federal de Sergipe
-- 💻 Tecnólogo em Desenvolvimento de Sistemas — SENAC *(em andamento)*
+- 💻 Curso Técnico em Rede de Computadores — Instituto Federal de Sergipe *(em andamento)*
 - 📜 Certificação em Adminstradora de Banco de Dados — SENAC
 - 📜 Certificação em Full Stack — Jovem Tech (INOVASE)
 - 🤖 Sprint IA & Análise de Dados com Python — PrograMaria
